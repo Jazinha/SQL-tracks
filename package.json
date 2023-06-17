@@ -1,0 +1,24 @@
+{
+  "name": "a-sql-to-my-tracker",
+  "version": "1.0.0",
+  "description": "A SQL employee tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDontKnow/a-sql-to-my-tracker.git"
+  },
+  "author": "David Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidDontKnow/a-sql-to-my-tracker/issues"
+  },
+  "homepage": "https://github.com/DavidDontKnow/a-sql-to-my-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.1.0"
+  }
+}
